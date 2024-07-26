@@ -1,4 +1,3 @@
-<?php
 
 Class ApiMultibot extends RequestApi {
 	
