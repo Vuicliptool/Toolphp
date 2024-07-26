@@ -1,4 +1,3 @@
-<?php
 
 require "App/Modul/Functions.php";
 
