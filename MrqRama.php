@@ -1,4 +1,4 @@
-<?php
+
 /*
 	* FITUR
 	* Dashboard -> getDashboard() [No Api]
