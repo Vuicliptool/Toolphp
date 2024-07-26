@@ -1,4 +1,3 @@
-<?php
 
 class License {
 	static function TemplateLicense($user, $lisensi){
