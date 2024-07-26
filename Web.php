@@ -1,4 +1,4 @@
-<?php
+
 
 Class Web {
 	static function getInput($r, $api, $patch) {
