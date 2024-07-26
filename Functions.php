@@ -1,4 +1,3 @@
-<?php
 
 function replacetxt($msg){
 	$awal = ["[","]","+","-",">","*"];
