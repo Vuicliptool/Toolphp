@@ -1,4 +1,4 @@
-<?php
+
 
 Class Shortlinks {
 	function __construct($apikey){
