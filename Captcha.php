@@ -1,4 +1,3 @@
-<?php
 
 Class Captcha{
 	static function icon(){
